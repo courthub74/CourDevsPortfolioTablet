@@ -229,39 +229,39 @@
     text-align: center;
     font-size: 3vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet {
     background-color: #146166;
     color: white;
     height: 230vh;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .topskillstablet {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .topskillstablet {
     display: flex;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .topskillstablet .titletablet {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .topskillstablet .titletablet {
     margin: 4vh 0 0 5vh;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .topskillstablet .titletablet h1 {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .topskillstablet .titletablet h1 {
     font-size: 10vw;
     font-family: "Inter", sans-serif;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .botskillstablet {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet {
     margin: 4vh 0 0 0;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .skillcirclestablet {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .skillcirclestablet {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     gap: 7vh;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .iconsfirstrow {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .iconsfirstrow {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 2vw;
     margin: 5vh 0 -3vh -4vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .iconsfirstrow .html {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .iconsfirstrow .html {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -276,16 +276,16 @@
     height: 10vw;
     box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.521);
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .iconsfirstrow .html #html {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .iconsfirstrow .html #html {
     width: 7vw;
     height: 7vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .iconsfirstrow .html p {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .iconsfirstrow .html p {
     color: white;
     font-size: 2.5vw;
     font-family: "Roboto", sans-serif;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .iconsfirstrow .css {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .iconsfirstrow .css {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -300,16 +300,16 @@
     gap: 1vh;
     box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.521);
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .iconsfirstrow .css #css {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .iconsfirstrow .css #css {
     width: 7vw;
     height: 7vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .iconsfirstrow .css p {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .iconsfirstrow .css p {
     color: white;
     font-size: 2.5vw;
     font-family: "Roboto", sans-serif;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .iconsfirstrow .sass {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .iconsfirstrow .sass {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -324,23 +324,23 @@
     gap: 1.5vh;
     box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.521);
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .iconsfirstrow .sass #sass {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .iconsfirstrow .sass #sass {
     width: 6vw;
     height: 6vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .iconsfirstrow .sass p {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .iconsfirstrow .sass p {
     color: white;
     font-size: 2.5vw;
     font-family: "Roboto", sans-serif;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .skillsresponsivedescription {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .skillsresponsivedescription {
     margin: -0.5vh 0 -5vh 37vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .skillsresponsivedescription p {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .skillsresponsivedescription p {
     font-family: "Julius Sans One", sans-serif;
     font-size: 4vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .underlineresponsediv .underlinetablet {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .underlineresponsediv .underlinetablet {
     margin: 0 4vw 0 0;
     width: 80vw;
     height: 2vh;
@@ -348,20 +348,20 @@
     border: none;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.521);
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .userinterfacesdivtablet {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .userinterfacesdivtablet {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .userinterfacesdivtablet .iconsuserintrowtablet {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .userinterfacesdivtablet .iconsuserintrowtablet {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 2vw;
     margin: 8vh 4vw 0 0;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .userinterfacesdivtablet .iconsuserintrowtablet .react-native {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .userinterfacesdivtablet .iconsuserintrowtablet .react-native {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -375,17 +375,17 @@
     height: 10vw;
     box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.521);
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .userinterfacesdivtablet .iconsuserintrowtablet .react-native #react-native {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .userinterfacesdivtablet .iconsuserintrowtablet .react-native #react-native {
     width: 8vw;
     height: 8vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .userinterfacesdivtablet .iconsuserintrowtablet .react-native p {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .userinterfacesdivtablet .iconsuserintrowtablet .react-native p {
     color: white;
     font-size: 2.5vw;
     text-align: center;
     font-family: "Roboto", sans-serif;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .userinterfacesdivtablet .iconsuserintrowtablet .reactjs {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .userinterfacesdivtablet .iconsuserintrowtablet .reactjs {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -400,16 +400,16 @@
     gap: 1.5vh;
     box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.521);
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .userinterfacesdivtablet .iconsuserintrowtablet .reactjs #reactjs {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .userinterfacesdivtablet .iconsuserintrowtablet .reactjs #reactjs {
     width: 7vw;
     height: 6.5vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .userinterfacesdivtablet .iconsuserintrowtablet .reactjs p {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .userinterfacesdivtablet .iconsuserintrowtablet .reactjs p {
     color: white;
     font-size: 2.5vw;
     font-family: "Roboto", sans-serif;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .userinterfacesdivtablet .iconsuserintrowtablet .figma {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .userinterfacesdivtablet .iconsuserintrowtablet .figma {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -424,23 +424,23 @@
     gap: 1.5vh;
     box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.521);
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .userinterfacesdivtablet .iconsuserintrowtablet .figma #figma {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .userinterfacesdivtablet .iconsuserintrowtablet .figma #figma {
     width: 6vw;
     height: 6vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .userinterfacesdivtablet .iconsuserintrowtablet .figma p {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .userinterfacesdivtablet .iconsuserintrowtablet .figma p {
     color: white;
     font-size: 2.5vw;
     font-family: "Roboto", sans-serif;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .skillsuserdescription {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .skillsuserdescription {
     margin: 4vh 0 2vh 8.5vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .skillsuserdescription p {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .skillsuserdescription p {
     font-family: "Julius Sans One", sans-serif;
     font-size: 4vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .userinterfacediv .userinterfacelinetablet {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .userinterfacediv .userinterfacelinetablet {
     margin: 0 0 0 8vw;
     width: 80vw;
     height: 2vh;
@@ -448,20 +448,20 @@
     border: none;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.521);
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .responsivedesigndivtablet {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .responsivedesigndivtablet {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .iconsthirdrowtablet {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .iconsthirdrowtablet {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 2.2vw;
     margin: 9vh 3vw 0 0;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .iconsthirdrowtablet .javascript {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .iconsthirdrowtablet .javascript {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -476,17 +476,17 @@
     height: 13vw;
     box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.521);
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .iconsthirdrowtablet .javascript #javascript {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .iconsthirdrowtablet .javascript #javascript {
     margin: -1vh 0 0 0;
     width: 10vw;
     height: 10vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .iconsthirdrowtablet .javascript p {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .iconsthirdrowtablet .javascript p {
     color: white;
     font-size: 2.5vw;
     font-family: "Roboto", sans-serif;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .iconsthirdrowtablet .python {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .iconsthirdrowtablet .python {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -501,17 +501,17 @@
     height: 13vw;
     box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.521);
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .iconsthirdrowtablet .python #python {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .iconsthirdrowtablet .python #python {
     margin: -1vh 0 0 0;
     width: 9vw;
     height: 9vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .iconsthirdrowtablet .python p {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .iconsthirdrowtablet .python p {
     color: white;
     font-size: 2.5vw;
     font-family: "Roboto", sans-serif;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .iconsthirdrowtablet .php {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .iconsthirdrowtablet .php {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -526,24 +526,24 @@
     height: 13vw;
     box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.521);
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .iconsthirdrowtablet .php #php {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .iconsthirdrowtablet .php #php {
     margin: -1vh 0 0 0;
     width: 9vw;
     height: 9vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .iconsthirdrowtablet .php p {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .iconsthirdrowtablet .php p {
     color: white;
     font-size: 2.5vw;
     font-family: "Roboto", sans-serif;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .skillsscriptingdescription {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .skillsscriptingdescription {
     margin: 4vh 0 -6vh 55vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .skillsscriptingdescription p {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .skillsscriptingdescription p {
     font-family: "Julius Sans One", sans-serif;
     font-size: 4vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .scriptingdiv .scriptinglinetablet {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .scriptingdiv .scriptinglinetablet {
     margin: 8vh 3vw 0 0;
     width: 80vw;
     height: 2vh;
@@ -551,20 +551,20 @@
     border: none;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.521);
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .serversideprogdivtablet {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .serversideprogdivtablet {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .serversideprogdivtablet .iconsfourthrowtablet {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .serversideprogdivtablet .iconsfourthrowtablet {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 2vw;
     margin: 10vh 5vw 0 0vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .serversideprogdivtablet .iconsfourthrowtablet .nodejs {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .serversideprogdivtablet .iconsfourthrowtablet .nodejs {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -579,17 +579,17 @@
     height: 13vw;
     box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.521);
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .serversideprogdivtablet .iconsfourthrowtablet .nodejs #nodejs {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .serversideprogdivtablet .iconsfourthrowtablet .nodejs #nodejs {
     margin: 0vh 0 0 0;
     width: 7vw;
     height: 8vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .serversideprogdivtablet .iconsfourthrowtablet .nodejs p {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .serversideprogdivtablet .iconsfourthrowtablet .nodejs p {
     color: white;
     font-size: 2.5vw;
     font-family: "Roboto", sans-serif;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .serversideprogdivtablet .iconsfourthrowtablet .django {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .serversideprogdivtablet .iconsfourthrowtablet .django {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -604,17 +604,17 @@
     height: 13vw;
     box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.521);
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .serversideprogdivtablet .iconsfourthrowtablet .django #django {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .serversideprogdivtablet .iconsfourthrowtablet .django #django {
     margin: -1vh 0 0 0;
     width: 9vw;
     height: 9vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .serversideprogdivtablet .iconsfourthrowtablet .django p {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .serversideprogdivtablet .iconsfourthrowtablet .django p {
     color: white;
     font-size: 2.5vw;
     font-family: "Roboto", sans-serif;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .serversideprogdivtablet .iconsfourthrowtablet .laravel {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .serversideprogdivtablet .iconsfourthrowtablet .laravel {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -629,25 +629,25 @@
     height: 13vw;
     box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.521);
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .serversideprogdivtablet .iconsfourthrowtablet .laravel #laravel {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .serversideprogdivtablet .iconsfourthrowtablet .laravel #laravel {
     margin: -1vh 0 0 0;
     width: 7vw;
     height: 7vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .serversideprogdivtablet .iconsfourthrowtablet .laravel p {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .serversideprogdivtablet .iconsfourthrowtablet .laravel p {
     color: white;
     font-size: 2.5vw;
     font-family: "Roboto", sans-serif;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .serversideprogdivtablet .skillsserversidedescription {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .serversideprogdivtablet .skillsserversidedescription {
     width: 100%;
     margin: 4vh 0 -6vh 18vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .serversideprogdivtablet .skillsserversidedescription p {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .serversideprogdivtablet .skillsserversidedescription p {
     font-family: "Julius Sans One", sans-serif;
     font-size: 4vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .serversideprogdivtablet .serverdiv .serverlinetablet {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .serversideprogdivtablet .serverdiv .serverlinetablet {
     margin: 8vh 2vw 0 0vw;
     width: 80vw;
     height: 2vh;
@@ -655,20 +655,20 @@
     border: none;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.521);
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .databasedivtablet {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .databasedivtablet {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .databasedivtablet .iconsfifthrowtablet {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .databasedivtablet .iconsfifthrowtablet {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 2vw;
     margin: 10vh 5vw 0 0vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .databasedivtablet .iconsfifthrowtablet .mongo {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .databasedivtablet .iconsfifthrowtablet .mongo {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -683,17 +683,17 @@
     height: 13vw;
     box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.521);
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .databasedivtablet .iconsfifthrowtablet .mongo #mongo {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .databasedivtablet .iconsfifthrowtablet .mongo #mongo {
     margin: 0vh 0 0 0;
     width: 3vw;
     height: 8vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .databasedivtablet .iconsfifthrowtablet .mongo p {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .databasedivtablet .iconsfifthrowtablet .mongo p {
     color: white;
     font-size: 2.5vw;
     font-family: "Roboto", sans-serif;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .databasedivtablet .iconsfifthrowtablet .firebase {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .databasedivtablet .iconsfifthrowtablet .firebase {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -708,17 +708,17 @@
     height: 13vw;
     box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.521);
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .databasedivtablet .iconsfifthrowtablet .firebase #firebase {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .databasedivtablet .iconsfifthrowtablet .firebase #firebase {
     margin: -2vh 0 0 0;
     width: 8vw;
     height: 10vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .databasedivtablet .iconsfifthrowtablet .firebase p {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .databasedivtablet .iconsfifthrowtablet .firebase p {
     color: white;
     font-size: 2.5vw;
     font-family: "Roboto", sans-serif;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .databasedivtablet .iconsfifthrowtablet .postgre {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .databasedivtablet .iconsfifthrowtablet .postgre {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -733,25 +733,25 @@
     height: 13vw;
     box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.521);
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .databasedivtablet .iconsfifthrowtablet .postgre #postgre {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .databasedivtablet .iconsfifthrowtablet .postgre #postgre {
     margin: 0vh 0 0 0;
     width: 8vw;
     height: 8vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .databasedivtablet .iconsfifthrowtablet .postgre p {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .databasedivtablet .iconsfifthrowtablet .postgre p {
     color: white;
     font-size: 2.5vw;
     font-family: "Roboto", sans-serif;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .databasedivtablet .skillsdatabsedescription {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .databasedivtablet .skillsdatabsedescription {
     width: 100%;
     margin: 4vh 0 -6vh 88vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .databasedivtablet .skillsdatabsedescription p {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .databasedivtablet .skillsdatabsedescription p {
     font-family: "Julius Sans One", sans-serif;
     font-size: 4vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .databasedivtablet .databasediv .databaselinetablet {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .databasedivtablet .databasediv .databaselinetablet {
     margin: 8vh 1vw 0 0;
     width: 80vw;
     height: 2vh;
@@ -759,20 +759,20 @@
     border: none;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.521);
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .deploymentdivtablet {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .deploymentdivtablet {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .deploymentdivtablet .iconssixthrowtablet {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .deploymentdivtablet .iconssixthrowtablet {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 2vw;
     margin: 10vh 5vw 0 0vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .deploymentdivtablet .iconssixthrowtablet .heroku {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .deploymentdivtablet .iconssixthrowtablet .heroku {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -787,16 +787,16 @@
     height: 13vw;
     box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.521);
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .deploymentdivtablet .iconssixthrowtablet .heroku #heroku {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .deploymentdivtablet .iconssixthrowtablet .heroku #heroku {
     width: 8vw;
     height: 8vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .deploymentdivtablet .iconssixthrowtablet .heroku p {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .deploymentdivtablet .iconssixthrowtablet .heroku p {
     color: white;
     font-size: 2.5vw;
     font-family: "Roboto", sans-serif;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .deploymentdivtablet .iconssixthrowtablet .digitalocean {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .deploymentdivtablet .iconssixthrowtablet .digitalocean {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -810,17 +810,17 @@
     height: 13vw;
     box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.521);
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .deploymentdivtablet .iconssixthrowtablet .digitalocean #digitalocean {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .deploymentdivtablet .iconssixthrowtablet .digitalocean #digitalocean {
     width: 8vw;
     height: 8vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .deploymentdivtablet .iconssixthrowtablet .digitalocean p {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .deploymentdivtablet .iconssixthrowtablet .digitalocean p {
     color: white;
     font-size: 2.5vw;
     font-family: "Roboto", sans-serif;
     text-align: center;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .deploymentdivtablet .iconssixthrowtablet .aws {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .deploymentdivtablet .iconssixthrowtablet .aws {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -835,24 +835,24 @@
     gap: 1vh;
     box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.521);
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .deploymentdivtablet .iconssixthrowtablet .aws #aws {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .deploymentdivtablet .iconssixthrowtablet .aws #aws {
     width: 8vw;
     height: 8vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .deploymentdivtablet .iconssixthrowtablet .aws p {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .deploymentdivtablet .iconssixthrowtablet .aws p {
     color: white;
     font-size: 2.5vw;
     font-family: "Roboto", sans-serif;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .deploymentdivtablet .skillsdeploydescription {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .deploymentdivtablet .skillsdeploydescription {
     width: 100%;
     margin: 4vh 0 -6vh 18vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .deploymentdivtablet .skillsdeploydescription p {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .deploymentdivtablet .skillsdeploydescription p {
     font-family: "Julius Sans One", sans-serif;
     font-size: 4vw;
   }
-  * body #tabletcontainer #abouttabletcontainer #skillstabletcontainer #skillstablet .deploymentdivtablet .deploydiv .deploylinetablet {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .deploymentdivtablet .deploydiv .deploylinetablet {
     margin: 8vh 1vw 0 0;
     width: 80vw;
     height: 2vh;
