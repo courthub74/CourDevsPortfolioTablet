@@ -555,7 +555,7 @@ $lighterskills: #080e31;
                                 flex-direction: column;
                                 justify-content: center;
                                 align-items: center;
-                                gap: .1vh;
+                                gap: .5vh;
                                 border: 3px solid $skillsdarker2;
                                 background-color: $mainblue;
                                 border-radius: 10px;
@@ -566,8 +566,8 @@ $lighterskills: #080e31;
                                 box-shadow: 2px 2px 3px $boxshadowcircles;
                                 #javascript {
                                     margin: -1vh 0 0 0;
-                                    width: 10vw;
-                                    height: 10vw;
+                                    width: 8vw;
+                                    height: 8vw;
                                 }
                                 p {
                                     color: white;
@@ -580,7 +580,7 @@ $lighterskills: #080e31;
                                 flex-direction: column;
                                 justify-content: center;
                                 align-items: center;
-                                gap: .4vh;
+                                gap: 1vh;
                                 border: 3px solid $skillsdarker2;
                                 background-color: $mainblue;
                                 border-radius: 10px;
@@ -591,8 +591,8 @@ $lighterskills: #080e31;
                                 box-shadow: 2px 2px 3px $boxshadowcircles;
                                 #python {
                                     margin: -1vh 0 0 0;
-                                    width: 9vw;
-                                    height: 9vw;
+                                    width: 7vw;
+                                    height: 7vw;
                                 }
                                 p {
                                     color: white;
@@ -605,7 +605,7 @@ $lighterskills: #080e31;
                                 flex-direction: column;
                                 justify-content: center;
                                 align-items: center;
-                                gap: .4vh;
+                                gap: 1vh;
                                 border: 3px solid $skillsdarker2;
                                 background-color: $mainblue;
                                 border-radius: 10px;
@@ -616,8 +616,8 @@ $lighterskills: #080e31;
                                 box-shadow: 2px 2px 3px $boxshadowcircles;
                                 #php {
                                     margin: -1vh 0 0 0;
-                                    width: 9vw;
-                                    height: 9vw;
+                                    width: 7vw;
+                                    height: 7vw;
                                 }
                                 p {
                                     color: white;
@@ -627,27 +627,27 @@ $lighterskills: #080e31;
                             }
                         }
                         // Skills Description
-                        .skillsscriptingdescription {
-                            // background-color: yellow;
-                            margin: 4vh 0 -6vh 55vw;
-                            p {
-                                font-family: 'Julius Sans One', sans-serif;
-                                font-size: 4vw;
+                        .scriptingdescription {
+                            .scriptingtitle {
+                                // background-color: yellow;
+                                margin: 4vh 0 -6vh 60vw;
+                                p {
+                                    font-family: 'Julius Sans One', sans-serif;
+                                    font-size: 4vw;
+                                }
+                            }
+                            // Titled underline
+                            .underlinescriptingdiv {
+                                .scriptinglinetablet {
+                                    margin: 8vh 3vw 0 0;
+                                    width: 80vw;
+                                    height: 2vh;
+                                    background-color: $mainblue;
+                                    border: none;
+                                    box-shadow: 3px 3px 5px $boxshadowcircles;
+                                }
                             }
                         }
-                        // Titled underline
-                        .scriptingdiv {
-                            .scriptinglinetablet {
-                                margin: 8vh 3vw 0 0;
-                                width: 80vw;
-                                height: 2vh;
-                                background-color: $mainblue;
-                                border: none;
-                                box-shadow: 3px 3px 5px $boxshadowcircles;
-                            }
-                        }
-
-
                         // SERVER SIDE SKILLS DIV
                         .serversideprogdivtablet {
                             display: flex;
