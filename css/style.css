@@ -333,15 +333,19 @@
     font-size: 2.5vw;
     font-family: "Roboto", sans-serif;
   }
-  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .skillsresponsivedescription {
-    margin: -0.5vh 0 -5vh 37vw;
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .responsivedesigndescription {
+    display: flex;
+    flex-direction: column;
   }
-  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .skillsresponsivedescription p {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .responsivedesigndescription .responsivedesigntitle {
+    margin: 0 0 0 41.5vw;
+  }
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .responsivedesigndescription .responsivedesigntitle p {
     font-family: "Julius Sans One", sans-serif;
     font-size: 4vw;
   }
-  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .underlineresponsediv .underlinetablet {
-    margin: 0 4vw 0 0;
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .responsivedesigndescription .underlineresponsediv .underlinetablet {
+    margin: 2vh 0 0 0;
     width: 80vw;
     height: 2vh;
     background-color: #080E2F;
@@ -433,15 +437,15 @@
     font-size: 2.5vw;
     font-family: "Roboto", sans-serif;
   }
-  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .skillsuserdescription {
-    margin: 4vh 0 2vh 8.5vw;
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .userinterfacesdescription .userinterfacestitle {
+    margin: 4vh 0 2vh 0.5vw;
   }
-  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .skillsuserdescription p {
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .userinterfacesdescription .userinterfacestitle p {
     font-family: "Julius Sans One", sans-serif;
     font-size: 4vw;
   }
-  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .userinterfacediv .userinterfacelinetablet {
-    margin: 0 0 0 8vw;
+  * body #tabletcontainer #skillstabletcontainer #skillstablet .botskillstablet .userinterfacesdescription .underlineuserinterfacesdiv .userinterfacelinetablet {
+    margin: 0 0 0 0vw;
     width: 80vw;
     height: 2vh;
     background-color: #080E2F;

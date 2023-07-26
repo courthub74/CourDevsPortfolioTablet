@@ -399,27 +399,31 @@ $lighterskills: #080e31;
                                 }
                             }
                             // Skills Description
-                            .skillsresponsivedescription {
-                                // background-color: yellow;
-                                margin: -.5vh 0 -5vh 37vw;
-                                p {
-                                    font-family: 'Julius Sans One', sans-serif;
-                                    font-size: 4vw;
+                            .responsivedesigndescription {
+                                display: flex;
+                                flex-direction: column;
+                                .responsivedesigntitle {
+                                    // background-color: yellow;
+                                    // margin: -.5vh 0 -5vh 37vw;
+                                    margin: 0 0 0 41.5vw;
+                                    p {
+                                        font-family: 'Julius Sans One', sans-serif;
+                                        font-size: 4vw;
+                                    }
+                                }
+                                // Titled underline
+                                .underlineresponsediv {
+                                    .underlinetablet {
+                                        // margin: 2vh 4vw 0 0;
+                                        margin: 2vh 0 0 0;
+                                        width: 80vw;
+                                        height: 2vh;
+                                        background-color: $mainblue;
+                                        border: none;
+                                        box-shadow: 3px 3px 5px $boxshadowcircles;
+                                    }
                                 }
                             }
-                            // Titled underline
-                            .underlineresponsediv {
-                                .underlinetablet {
-                                    margin: 0 4vw 0 0;
-                                    width: 80vw;
-                                    height: 2vh;
-                                    background-color: $mainblue;
-                                    border: none;
-                                    box-shadow: 3px 3px 5px $boxshadowcircles;
-                                }
-                            }
-
-
                             // User Interface Section
                             .userinterfacesdivtablet {
                                 display: flex;
@@ -509,25 +513,27 @@ $lighterskills: #080e31;
                                     }
                                 }
                             }
-                            // Skills Description
-                            .skillsuserdescription {
-                                // background-color: yellow;
-                                margin: 4vh 0 2vh 8.5vw;
-                                p {
-                                    font-family: 'Julius Sans One', sans-serif;
-                                    font-size: 4vw;
-                                }
-                            }
-                            // Titled underline
-                            .userinterfacediv {
-                                .userinterfacelinetablet {
+                            // User Interfaces Description
+                            .userinterfacesdescription {
+                                .userinterfacestitle {
                                     // background-color: yellow;
-                                    margin: 0 0 0 8vw;
-                                    width: 80vw;
-                                    height: 2vh;
-                                    background-color: $mainblue;
-                                    border: none;
-                                    box-shadow: 3px 3px 5px $boxshadowcircles;
+                                    margin: 4vh 0 2vh .5vw;
+                                    p {
+                                        font-family: 'Julius Sans One', sans-serif;
+                                        font-size: 4vw;
+                                    }
+                                }
+                                // Titled underline
+                                .underlineuserinterfacesdiv {
+                                    .userinterfacelinetablet {
+                                        // background-color: yellow;
+                                        margin: 0 0 0 0vw;
+                                        width: 80vw;
+                                        height: 2vh;
+                                        background-color: $mainblue;
+                                        border: none;
+                                        box-shadow: 3px 3px 5px $boxshadowcircles;
+                                    }
                                 }
                             }
                         } 
