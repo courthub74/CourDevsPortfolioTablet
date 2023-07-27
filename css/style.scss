@@ -290,7 +290,7 @@ $lighterskills: #080e31;
                     #skillstablet {
                         background-color: $skillsteal;
                         color: white;
-                        height: 230vh;
+                        height: 260vh;
                         // Top of the skills section
                         .topskillstablet {
                             display: flex;
@@ -814,7 +814,7 @@ $lighterskills: #080e31;
                                     box-shadow: 2px 2px 3px $boxshadowcircles;
                                     #firebase {
                                         margin: -2vh 0 0 0;
-                                        width: 8vw;
+                                        width: 10vw;
                                         height: 10vw;
                                     }
                                     p {
@@ -828,7 +828,7 @@ $lighterskills: #080e31;
                                     flex-direction: column;
                                     justify-content: center;
                                     align-items: center;
-                                    gap: 1vh;
+                                    gap: .5vh;
                                     border: 3px solid $skillsdarker2;
                                     background-color: $mainblue;
                                     border-radius: 10px;
@@ -840,7 +840,7 @@ $lighterskills: #080e31;
                                     #postgre {
                                         margin: 0vh 0 0 0;
                                         width: 8vw;
-                                        height: 8vw;
+                                        height: 7.5vw;
                                     }
                                     p {
                                         color: white;
@@ -849,25 +849,27 @@ $lighterskills: #080e31;
                                     }
                                 }
                             }
-                            // Skills Description
-                            .skillsdatabsedescription {
-                                // background-color: yellow;
-                                width: 100%;
-                                margin: 4vh 0 -6vh 88vw;
-                                p {
-                                    font-family: 'Julius Sans One', sans-serif;
-                                    font-size: 4vw;
+                            .databasedescription {
+                                // Skills Description
+                                .databasetitle {
+                                    // background-color: yellow;
+                                    width: 100%;
+                                    margin: 4vh 0 -4vh 34vw;
+                                    p {
+                                        font-family: 'Julius Sans One', sans-serif;
+                                        font-size: 4vw;
+                                    }
                                 }
-                            }
-                            // Titled underline
-                            .databasediv {
-                                .databaselinetablet {
-                                    margin: 8vh 1vw 0 0;
-                                    width: 80vw;
-                                    height: 2vh;
-                                    background-color: $mainblue;
-                                    border: none;
-                                    box-shadow: 3px 3px 5px $boxshadowcircles;
+                                // Titled underline
+                                .underlinedatabasediv {
+                                    .databaselinetablet {
+                                        margin: 6vh 2vw 0 0;
+                                        width: 80vw;
+                                        height: 2vh;
+                                        background-color: $mainblue;
+                                        border: none;
+                                        box-shadow: 3px 3px 5px $boxshadowcircles;
+                                    }
                                 }
                             } 
                         }
@@ -898,8 +900,8 @@ $lighterskills: #080e31;
                                     height: 13vw;
                                     box-shadow: 2px 2px 3px $boxshadowcircles;
                                     #heroku {
-                                        width: 8vw;
-                                        height: 8vw;
+                                        width: 7vw;
+                                        height: 7vw;
                                     }
                                     p {
                                         color: white;
@@ -907,7 +909,7 @@ $lighterskills: #080e31;
                                         font-family: 'Roboto', sans-serif;
                                     }
                                 }
-                                .digitalocean {
+                                .azureicon {
                                     display: flex;
                                     flex-direction: column;
                                     justify-content: center;
@@ -921,9 +923,9 @@ $lighterskills: #080e31;
                                     width: 13vw;
                                     height: 13vw;
                                     box-shadow: 2px 2px 3px $boxshadowcircles;
-                                    #digitalocean {
-                                        width: 8vw;
-                                        height: 8vw;
+                                    #azureicon {
+                                        width: 6vw;
+                                        height: 6vw;
                                     }
                                     p {
                                         color: white;
@@ -947,8 +949,8 @@ $lighterskills: #080e31;
                                     gap: 1vh;
                                     box-shadow: 2px 2px 3px $boxshadowcircles;
                                     #aws {
-                                        width: 8vw;
-                                        height: 8vw;
+                                        width: 7vw;
+                                        height: 7vw;
                                     }
                                     p {
                                         color: white;
@@ -956,20 +958,22 @@ $lighterskills: #080e31;
                                         font-family: 'Roboto', sans-serif;
                                     }
                                 }
-                            }
-                            // Skills Description
-                            .skillsdeploydescription {
+                            } 
+                        }
+                        // Deployment Description
+                        .deploymentdescription {
+                            .deploymenttitle {
                                 // background-color: yellow;
                                 width: 100%;
-                                margin: 4vh 0 -6vh 18vw;
+                                margin: -2.5vh 0 -6vh 1vw;
                                 p {
                                     font-family: 'Julius Sans One', sans-serif;
                                     font-size: 4vw;
                                 }
                             }
                             // Titled underline
-                            .deploydiv {
-                                .deploylinetablet {
+                            .underlinedeploymentdiv {
+                                .deploymentlinetablet {
                                     margin: 8vh 1vw 0 0;
                                     width: 80vw;
                                     height: 2vh;
@@ -977,7 +981,7 @@ $lighterskills: #080e31;
                                     border: none;
                                     box-shadow: 3px 3px 5px $boxshadowcircles;
                                 }
-                            } 
+                            }
                         }
                     }  
                 }
